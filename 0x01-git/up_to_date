@@ -1,0 +1,4 @@
+To stay up to date in Git, use these commands:
+
+git fetch origin
+git pull origin main
